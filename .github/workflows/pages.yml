@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - run: python3 -m unittest -v test_feed
+      - run: python3 -m unittest -v test_feed test_update_week
       - run: python3 validate_feed.py --require-current
       - name: Stage public data only
         run: |

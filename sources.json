@@ -3,8 +3,72 @@
     {
       "questions": [
         1,
-        2,
+        2
+      ],
+      "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
+      "referenceDate": "2026-10-21",
+      "checkedAt": "2026-10-24",
+      "supports": "地形と森林を連続した三次元の帯として測る開発中の技術。光の波長を変え、回折格子でレーザーの向きを変える。宇宙での実運用完了とは扱わない。"
+    },
+    {
+      "questions": [
         3
+      ],
+      "title": "JAXA EarthCARE L3全球グリッドプロダクト",
+      "url": "https://www.eorc.jaxa.jp/EARTHCARE/data/L3/L3_GRD_j.html",
+      "referenceDate": "2026-10-13",
+      "checkedAt": "2026-10-24",
+      "supports": "L2データの1か月分を全球統計処理。V01の一般提供開始日は2026年10月13日。"
+    },
+    {
+      "questions": [
+        4
+      ],
+      "title": "JAXA EarthCARE 更新履歴：レベル3プロダクト公開",
+      "url": "https://www.eorc.jaxa.jp/EARTHCARE/archive/index_j.html",
+      "referenceDate": "2026-10-13",
+      "checkedAt": "2026-10-24",
+      "supports": "緯度・経度・高度ごとに統計処理し、気候・気象・地球システム研究などで使いやすくしたと公開告知に記載。"
+    },
+    {
+      "questions": [
+        5,
+        6
+      ],
+      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+      "referenceDate": "2026-10-22",
+      "checkedAt": "2026-10-24",
+      "supports": "手前の銀河の重力が背景銀河の光を曲げる。手前の銀河の質量が大きいほど効果が強いと解説。"
+    },
+    {
+      "questions": [
+        7,
+        8
+      ],
+      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+      "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+      "referenceDate": "2026-10-23",
+      "checkedAt": "2026-10-24",
+      "supports": "Swiftはガンマ線バーストを検出して位置を求め、余光が薄れる前に望遠鏡をすばやく向けた。最終観測日は10月20日。"
+    },
+    {
+      "questions": [
+        9,
+        10
+      ],
+      "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+      "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+      "referenceDate": "2026-10-20",
+      "checkedAt": "2026-10-24",
+      "supports": "薄く鋭い断面を計算機シミュレーションと風洞で検証。記事は研究段階を説明しており、新設計による火星での飛行成功は報告していない。"
+    },
+    {
+      "questions": [
+        11,
+        12,
+        13
       ],
       "title": "JAXA 火星衛星探査計画（MMX）",
       "url": "https://www.isas.jaxa.jp/missions/spacecraft/current/mmx.html",
@@ -14,9 +78,9 @@
     },
     {
       "questions": [
-        4,
-        5,
-        6
+        14,
+        15,
+        16
       ],
       "title": "NASA Dragonfly simulated flight",
       "url": "https://science.nasa.gov/blogs/dragonfly/2026/10/23/nasas-dragonfly-completes-first-simulated-flight/",
@@ -26,8 +90,8 @@
     },
     {
       "questions": [
-        7,
-        8
+        17,
+        18
       ],
       "title": "NASA Psyche cruise update",
       "url": "https://science.nasa.gov/blogs/psyche/2026/10/22/pedal-to-the-metal-nasas-psyche-heads-toward-asteroid-belt/",
@@ -37,8 +101,8 @@
     },
     {
       "questions": [
-        9,
-        10
+        19,
+        20
       ],
       "title": "NASA Roman commissioning update",
       "url": "https://science.nasa.gov/blogs/roman/2026/10/22/nasas-roman-space-telescope-enters-final-commissioning-phase/",
