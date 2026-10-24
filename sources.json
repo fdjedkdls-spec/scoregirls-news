@@ -1,0 +1,50 @@
+{
+  "2026-W43": [
+    {
+      "questions": [
+        1,
+        2,
+        3
+      ],
+      "title": "JAXA 火星衛星探査計画（MMX）",
+      "url": "https://www.isas.jaxa.jp/missions/spacecraft/current/mmx.html",
+      "referenceDate": "2026-10-20",
+      "checkedAt": "2026-10-24",
+      "supports": "打上げ日・H3ロケット10号機・火星衛星・フォボス試料回収の目標。回収が完了したとは扱わない。"
+    },
+    {
+      "questions": [
+        4,
+        5,
+        6
+      ],
+      "title": "NASA Dragonfly simulated flight",
+      "url": "https://science.nasa.gov/blogs/dragonfly/2026/10/23/nasas-dragonfly-completes-first-simulated-flight/",
+      "referenceDate": "2026-10-23",
+      "checkedAt": "2026-10-24",
+      "supports": "探査先はタイタン。今回の飛行は地上の計算機試験。lidarは地形の高度・傾き・障害の把握に用いる。"
+    },
+    {
+      "questions": [
+        7,
+        8
+      ],
+      "title": "NASA Psyche cruise update",
+      "url": "https://science.nasa.gov/blogs/psyche/2026/10/22/pedal-to-the-metal-nasas-psyche-heads-toward-asteroid-belt/",
+      "referenceDate": "2026-10-22",
+      "checkedAt": "2026-10-24",
+      "supports": "目的地は金属に富む小惑星Psyche。電気推進ではキセノンのイオンを使う。"
+    },
+    {
+      "questions": [
+        9,
+        10
+      ],
+      "title": "NASA Roman commissioning update",
+      "url": "https://science.nasa.gov/blogs/roman/2026/10/22/nasas-roman-space-telescope-enters-final-commissioning-phase/",
+      "referenceDate": "2026-10-22",
+      "checkedAt": "2026-10-24",
+      "supports": "宇宙望遠鏡の科学運用前の調整。観測方向にある個々の星を使って指向を安定させる。"
+    }
+  ]
+}
