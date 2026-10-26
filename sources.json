@@ -110,5 +110,53 @@
       "checkedAt": "2026-10-24",
       "supports": "宇宙望遠鏡の科学運用前の調整。観測方向にある個々の星を使って指向を安定させる。"
     }
+  ],
+  "2026-W44": [
+    {
+      "questions": [
+        1,
+        2,
+        3
+      ],
+      "title": "NASA Earth Observatory: El Niño Then and Now",
+      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+      "referenceDate": "2026-10-23",
+      "checkedAt": "2026-10-26",
+      "supports": "問1: 高度計を持つ衛星が海面の高さを測ると本文に説明。問2: 水は温まると膨張するため、海面の高まりが蓄熱を示す。問3: 貿易風が弱まると西部の暖水が東へ移動する。公開日は10月23日、比較図の観測日は1997年10月13日と2026年10月12日。将来の影響を確定した事実とは扱わない。"
+    },
+    {
+      "questions": [
+        4,
+        5
+      ],
+      "title": "NASA’s Mike Lippert Takes Controls of X-59 for First Time",
+      "url": "https://www.nasa.gov/blogs/quesst/2026/10/22/nasas-mike-lippert-takes-controls-of-x-59-for-first-time/",
+      "referenceDate": "2026-10-22",
+      "checkedAt": "2026-10-26",
+      "supports": "問4: Quesstは大きなソニックブームを生じない超音速飛行技術の実証を目指す。問5: 10月21日の飛行は最高マッハ1.4に到達。発表は10月22日。機体全体の初飛行や速度記録更新とは記さず、研究のねらいと当該飛行の測定値を分ける。人物名は出題しない。"
+    },
+    {
+      "questions": [
+        6,
+        7,
+        8
+      ],
+      "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+      "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+      "referenceDate": "2026-10-19",
+      "checkedAt": "2026-10-26",
+      "supports": "問6: ヒューストンのジョンソン宇宙センター内の隔離された施設での模擬火星生活。問7: 居住施設は3Dプリントで建設。問8: 火星に似せた通信の遅延を再現。記事は開始から1年の時点で、終了は10月31日の予定。火星での実施や実験全体の終了とは表現しない。"
+    },
+    {
+      "questions": [
+        9,
+        10
+      ],
+      "title": "理化学研究所: アルマ望遠鏡による大規模観測プロジェクト「COMPASS」に貢献",
+      "url": "https://www.riken.jp/pr/news/2026/20261008_1/index.html",
+      "referenceDate": "2026-10-20",
+      "checkedAt": "2026-10-26",
+      "supports": "問9: アルマ望遠鏡による国際共同観測プロジェクトと記載。問10: 正式名称の和訳で原始星周辺の複雑な有機分子を対象とする分光探査と説明。ページ本文の発表日は2026年10月20日で確認。URL内の日付文字列と論文掲載日10月7日を記事の発表日と混同しない。生命の発見とは扱わない。"
+    }
   ]
 }
